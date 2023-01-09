@@ -13,3 +13,6 @@ D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_30\obj\Debug\net7.0\refint\Task_30.dll
 D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_30\obj\Debug\net7.0\Task_30.pdb
 D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_30\obj\Debug\net7.0\Task_30.genruntimeconfig.cache
 D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_30\obj\Debug\net7.0\ref\Task_30.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_30\bin\Debug\net7.0\Common.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_30\bin\Debug\net7.0\Common.pdb
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_30\obj\Debug\net7.0\Task_30.csproj.CopyComplete

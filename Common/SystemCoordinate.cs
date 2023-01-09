@@ -1,9 +1,7 @@
 ﻿namespace Common;
 
-    public static class SystemCoordinate
+    public static class Common
 {
-<<<<<<< HEAD
-
     public static int GetNumberFromUser()
     {
         bool Parsed = int.TryParse(Console.ReadLine(), out int number);
@@ -17,8 +15,7 @@
             return -1;
         }
     }
-=======
->>>>>>> main
+    
     public static int GetNumberOfQuarter(int x, int y)
     {
         if (x > 0 && y > 0)
@@ -40,5 +37,19 @@
             return 4;
         }
         return -1;
+    }
+}
+
+
+public class ArrayCommon
+{
+    public static void PrintArray(int[] array)
+    {
+        Console.Write("[");
+        for (int i = 0; i < array.Length - 1; i++)
+        {
+            Console.Write($"{array[i]}, ");
+        }
+        Console.Write($"{array[array.Length - 1]}]");
     }
 }
