@@ -13,11 +13,12 @@ ArrayCommon.PrintArray(result);
 int[] GetNumbersOfFibonaci(int number)
 {
     int[] array = new int[number];
-    array[0] = 0;
-    array[1] = 1;
+    if (number > 0)  array[0] = 0; 
+    if (number > 1)  array[1] = 1; 
+
     for (int i = 2; i < array.Length; i++)
     {
-        array[i] = array[i-1] + array[i-2];
+        array[i] = array[i - 1] + array[i - 2];
     }
     return array;
 }
